@@ -207,23 +207,23 @@
 
 ### Crear Usuario
 
-![img](img/post.PNG)
+![img](img/post.png)
 
 ### Ver los usuarios
 
-![img](img/get.PNG)
+![img](img/get.png)
 
 ### ver usuario
 
-![img](img/getId.PNG)
+![img](img/getId.png)
 
 ### editar usuario
 
-![img](img/put.PNG)
+![img](img/put.png)
 
 ### eliminar usuario
 
-![img](img/delete.PNG)
+![img](img/delete.png)
 
 
 ### Part 2: Implementing the Tasks Microservice RESTFUL API
